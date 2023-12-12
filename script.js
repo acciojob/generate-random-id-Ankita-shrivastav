@@ -9,8 +9,6 @@ function makeid(l) {
   }
 
   return result;
-
-	
 }
 
 // Do not change the code below.
